@@ -112,7 +112,6 @@ body {
   font-weight: 600;
   letter-spacing: -1px;
   color: var(--cream);
-  //color: var(--text-color);
 }
 
 .hero__lead {
@@ -259,7 +258,7 @@ body {
   padding: 3px 10px;
   border-radius: 999px;
   background-color: var(--beige);
-  color: var(--text-color);
+  color: var(--text-);
   font-weight: 500;
   font-size: 12px;
 }
@@ -269,7 +268,7 @@ body {
   font-size: 18px;
   font-weight: 600;
   text-align: left;
-  color: var(--text-color);
+  color: var(--text);
 }
 
 .card p {
@@ -346,7 +345,7 @@ body {
 }
 
 .social a:hover {
-  color: var(--accent-light);
+  color: var(--beige);
   transform: translateY(-3px);
 }
 
@@ -389,7 +388,7 @@ body {
 
 .modal__content {
   clear: both;
-  color: var(--text-color);
+  color: var(--text);
 }
 
 /* Footer */
